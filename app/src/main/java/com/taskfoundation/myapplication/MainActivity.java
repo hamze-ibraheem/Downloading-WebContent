@@ -1,4 +1,4 @@
-package com.taskfoundation.downloadingwebcontent;
+package com.taskfoundation.myapplication;
 
 import androidx.appcompat.app.AppCompatActivity;
 
